@@ -1,12 +1,11 @@
 ## 👋 안녕하세요, 이정민입니다
 
 **LLM과 RAG 기술로 실질적인 AI 솔루션을 구현하는 신입 개발자입니다.**  
-데이터 분석부터 머신러닝 모델링, LLM 기반 서비스 개발까지 폭넓은 프로젝트 경험을 쌓아왔습니다.  
 최신 AI 트렌드를 학습하며, 매일 성장하는 개발자가 되기 위해 노력하고 있습니다.
 
-**Junior AI Developer building practical solutions with LLM and RAG technologies.**  
-From data analysis to ML modeling and LLM-based services, I've gained hands-on experience across diverse AI projects.  
-I stay current with the latest AI trends and continuously grow as a developer every day.
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmlee0507)](https://solved.ac/jmlee0507)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jmlee0507&show_icons=true&theme=dark)
 
 ---
 
@@ -33,14 +32,3 @@ I stay current with the latest AI trends and continuously grow as a developer ev
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
 
----
-
-### 📫 Contact
-- Email: leejm2157@gmail.com
-- GitHub: [@Jmlee0507](https://github.com/Jmlee0507)
-
----
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmlee0507)](https://solved.ac/jmlee0507)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jmlee0507&show_icons=true&theme=dark)
