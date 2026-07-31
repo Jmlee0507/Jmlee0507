@@ -3,10 +3,6 @@
 **LLM과 RAG 기술로 실질적인 AI 솔루션을 구현하는 신입 개발자입니다.**  
 최신 AI 트렌드를 학습하며, 매일 성장하는 개발자가 되기 위해 노력하고 있습니다.
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmlee0507)](https://solved.ac/jmlee0507)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jmlee0507&show_icons=true&theme=dark)
-
 ---
 
 ### 🛠 Tech Stack
